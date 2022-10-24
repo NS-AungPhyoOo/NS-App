@@ -3,6 +3,8 @@
   "app_version":"1.1",
   "app_version_code":"2022",
   "app_tips":[
-       {"tips_info":"Welcome To NS! \nGood Luck"}
+       {"tips_info":"Welcome To NS! \nGood Luck"},
+       {"tips_info":"Good Luck"},
+       {"tips_info":"အားလုံးနေကောင်းကြရဲ့လား။"}
            ]
   }
