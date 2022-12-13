@@ -1,0 +1,19 @@
+[
+ {
+   "app":"ns",
+   "data":[
+     {
+     "name":"bms",
+     "img":"charger.png",
+     "type":"charger",
+     "price":2500,
+     "discount":0,
+     "description":""
+     }
+   ]
+ 
+
+
+
+
+]
