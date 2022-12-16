@@ -2,10 +2,26 @@
    "app":"ns",
    "data":[
      {
-     "name":"bms",
+     "name":"bms s3 20ah",
      "img":"https://raw.githubusercontent.com/NS-AungPhyoOo/NS-App/main/FB_IMG_1670664532565.jpg",
      "type":"charger",
      "price":2500,
+     "discount":0,
+     "description":""
+     },
+      {
+     "name":"BMS s3 25 ah",
+     "img":"https://raw.githubusercontent.com/NS-AungPhyoOo/NS-App/main/FB_IMG_1670664532565.jpg",
+     "type":"charger",
+     "price":4500,
+     "discount":0,
+     "description":""
+     },
+      {
+     "name":"BMS s3 40ah",
+     "img":"https://raw.githubusercontent.com/NS-AungPhyoOo/NS-App/main/FB_IMG_1670664532565.jpg",
+     "type":"charger",
+     "price":6000,
      "discount":0,
      "description":""
      }
