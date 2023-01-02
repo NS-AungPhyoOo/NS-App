@@ -1,8 +1,28 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/aw.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/id.xml"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="",MRTV-4
-https://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="",MRTV-4
-https://edge-stream-07.otv.co.th./livestream/MRTV-4.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://lh3.googleusercontent.com/-OyrnCDtudZY/X3v_kM9vP7I/AAAAAAAAAWM/NVhvpecv8qgcymCkHmPOexPpC8ddOFjKQCLcBGAsYHQ/s1600/900251810016a3153031c95197dc1e94.jpg" group-title="",MRTV-4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://lh3.googleusercontent.com/-HS-WMc-XZmU/X3v_hpdbdkI/AAAAAAAAAV0/QWUYD7E808AdbALo_E7fovcTe1mdVVeLACLcBGAsYHQ/s1600/images.jpeg" group-title="",Channel-7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png" group-title="",MITV
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest?cb=20191211065314" group-title="MYN",MAHABAWDI
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ" group-title="MYN",MAHAR
+http://167.71.222.33:80/channel/mahar-isps.smil/chunklist_w1019842488_b1200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="" group-title="MYN",MCS
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprcbMJqqTlRAqsCu8l5Q24lsUOOunEdtNxkOoBZ_OfQ&s" group-title="MYN",MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://iili.io/3MWiD7.jpg" group-title="MYN",MVM
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg" group-title="MYN",Channel9
+https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDY6MjAgUE0maGFzaF92YWx1ZT1XeVNiRmx6OTVuK2Mxemg5Nlp1NFJnPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTE1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQoXEErPjqdGTGQ_mKJeIvdqEvvhOTxciJkknj3Y&s" group-title="MYN",5plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w952929156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC9ISzLTXKsUo9oMdx80q_Q9V8LgIruetJFydmjXeMKw&s" group-title="MYN",ChannelMe
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDk6NDggUE0maGFzaF92YWx1ZT14bmFGNVhHRWlmS3Z0eEFyVW44R293PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTI1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/ChannelK_Myanmar.png/revision/latest/scale-to-width-down/1200?cb=20191211065312" group-title="MYN",Channelk
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (Vietnamese Subs) (720p)
