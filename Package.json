@@ -12,12 +12,12 @@
        {"tips_info":"မင်းမှာအနာဂတ်အတွက်လမ်းတွေရှိပါတယ်မင်းဖောက်နိုင်ဖို့ပဲလိုတာပါ။"},
        {"tips_info":"အရာရာဟာကိုယ်တိုင်ဖန်တီးထားတာပါ။"}
            ],
-  "tips_messages":[
+  "tips_messages":{
 "Good Luck.",
 "How Are You.",
 "Hey, Today Good Luck.",
 "ဒီနေ့သင်တို့ကံကောင်းနိုင်ပါစေ။"
-],
+},
   "key":{
     "yt":"AIzaSyDG1L2vqajZQLulC1h65uUAEURmDsUuTqc"
   }
