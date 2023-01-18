@@ -1,24 +1,34 @@
 {
-  "app_name":"NS",
-  "app_version":1.0,
-  "app_version_name":1.0,
-  "app_version_code":2022,
-  "app_url":"http://www.google.com",
-  "message":"Happy New Years.",
-  "app_tips":[
-       {"tips_info":"Welcome To NS! \nGood Luck"},
-       {"tips_info":"Good Luck"},
-       {"tips_info":"အားလုံးနေကောင်းကြရဲ့လား။"},
-       {"tips_info":"မင်းမှာအနာဂတ်အတွက်လမ်းတွေရှိပါတယ်မင်းဖောက်နိုင်ဖို့ပဲလိုတာပါ။"},
-       {"tips_info":"အရာရာဟာကိုယ်တိုင်ဖန်တီးထားတာပါ။"}
-           ],
-  "tips_messages":{
-"Good Luck.",
-"How Are You.",
-"Hey Today Good Luck.",
-"ဒီနေ့သင်တို့ကံကောင်းနိုင်ပါစေ။"
-},
-  "key":{
-    "yt":"AIzaSyDG1L2vqajZQLulC1h65uUAEURmDsUuTqc"
+  "app_name": "NS",
+  "app_version": 1.0,
+  "app_version_name": 1.0,
+  "app_version_code": 2022,
+  "app_url": "http://www.google.com",
+  "message": "Happy New Years.",
+  "app_tips": [
+    {
+      "tips_info": "Welcome To NS! \nGood Luck"
+    },
+    {
+      "tips_info": "Good Luck"
+    },
+    {
+      "tips_info": "အားလုံးနေကောင်းကြရဲ့လား။"
+    },
+    {
+      "tips_info": "မင်းမှာအနာဂတ်အတွက်လမ်းတွေရှိပါတယ်မင်းဖောက်နိုင်ဖို့ပဲလိုတာပါ။"
+    },
+    {
+      "tips_info": "အရာရာဟာကိုယ်တိုင်ဖန်တီးထားတာပါ။"
+    }
+  ],
+  "tips_messages": [
+    "Good Luck.",
+    "How Are You.",
+    "Hey Today Good Luck.",
+    "ဒီနေ့သင်တို့ကံကောင်းနိုင်ပါစေ။"
+  ],
+  "key": {
+    "yt": "AIzaSyDG1L2vqajZQLulC1h65uUAEURmDsUuTqc"
   }
-  }
+}
