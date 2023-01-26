@@ -4,7 +4,13 @@
    "get-data":[
    {
    "name":"The Last Of Us (Past -1 > Chapter 1)",
-   "thumb":"http://www.google.com/m.png",
+   "thumb":":"https://raw.githubusercontent.com/NS-AungPhyoOo/NS-App/main/Movies/img/FB_IMG_1674708460665.jpg",
+   "url":"http://www.google.com/",
+   "id":"0001"
+   },
+      {
+   "name":"The Last Of Us (Past -1 > Chapter 2)",
+   "thumb":":"https://raw.githubusercontent.com/NS-AungPhyoOo/NS-App/main/Movies/img/FB_IMG_1674708460665.jpg",
    "url":"http://www.google.com/",
    "id":"0001"
    }
